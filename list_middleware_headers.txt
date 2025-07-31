@@ -1,10 +1,8 @@
-authorization
 cf-connecting-ip
 cf-ipcountry
 cf-visitor
 content-security-policy
 forwarded
-host
 proxy-authenticate
 proxy-authorization
 proxy-connection
@@ -42,7 +40,10 @@ x-forwarded-port
 x-forwarded-proto
 x-forwarded-scheme
 x-forwarded-server
+X-Forwarded-Server
 x-frame-options
+X-Host
+X-HTTP-Host-Override
 x-http-method-override
 x-method-override
 x-operamini-phone-ua
